@@ -1,110 +1,101 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Roadmap Front-End + C# + SQL Server
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Este repositório contém meu plano de estudos e projetos práticos para me tornar **Desenvolvedor Front-End**, com integração em **C#/.NET** e **SQL Server**.  
+O objetivo é documentar minha jornada de aprendizado de 120 dias, compartilhar projetos e servir como portfólio.
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 📅 Roadmap de 120 Dias
 
-<br/>
-<br/>
+- **Mês 1 - Fundamentos**
+  - HTML, CSS, JavaScript básico
+  - Projetos iniciais: páginas responsivas e interações simples
 
-## 💻 Sobre o Projeto
+- **Mês 2 - Prática**
+  - Git/GitHub
+  - React.js (componentes, estado, hooks)
+  - Projeto: To-Do App em React
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+- **Mês 3 - Portfólio**
+  - TypeScript aplicado ao React
+  - Projeto: Task Manager com CRUD
+  - Preparação de portfólio no GitHub e LinkedIn
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+- **Mês 4 - Avanço**
+  - C# básico e SQL Server
+  - API em .NET com autenticação JWT
+  - Integração full-stack (React + C# + SQL Server)
+  - Deploy em Vercel/Azure
+  - Projeto final: Aplicação de Notas com Login
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 📚 Cursos Utilizados
 
-- _Exemplo_:
+- **Java para Iniciantes** – Java Progressivo / YouTube  
+- **C# Completo para Iniciantes** – Código da Madrugada / Macoratti  
+- **SQL Server para Iniciantes** – DIO / Udemy  
+- **Formação Front-End Developer** – DIO / Alura  
+- **TypeScript para React** – Udemy / YouTube  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 🛠️ Tecnologias
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+- **Front-End:** HTML, CSS, JavaScript, React, TypeScript  
+- **Back-End:** C#, .NET, ASP.NET Core  
+- **Banco de Dados:** SQL Server  
+- **Ferramentas:** Git, GitHub, VS Code, Azure, Vercel  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+--- 
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## 🎯 Objetivo
 
-  - [Subhabilidades relacionadas, se aplicável]
+- Conquistar meu **primeiro emprego como Desenvolvedor Front-End**  
+- Demonstrar habilidades práticas com projetos reais  
+- Documentar evolução e aprendizado contínuo  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+---
 
-## 🎯 Objetivos e Resultados Esperados
+Bem-vindo ao repositório! Este projeto foi criado para apoiar minha jornada de aprendizado e desenvolvimento em tecnologia, com foco em **Front-End, UX/UI e Inteligência Artificial**.
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+## 📖 Sobre o Projeto
+Este repositório reúne:
+- Exercícios e projetos práticos de **desenvolvimento web** (HTML, CSS, JavaScript, frameworks).
+- Estudos e protótipos de **UX/UI**, aplicando conceitos de design digital.
+- Experimentos iniciais com **IA e ciência de dados**.
 
-<!--START_SECTION:footer-->
+---
 
-<br />
-<br />
+## 🎯 Objetivos
+- Consolidar conhecimentos em programação e design digital.
+- Criar um portfólio com projetos aplicados.
+- Evoluir até conquistar meu **primeiro emprego em tecnologia**.
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Front-End:** HTML, CSS, JavaScript, React
+- **UX/UI:** Figma, Adobe XD
+- **IA/Dados:** Python, Pandas, Scikit-learn
+- **Controle de versão:** Git & GitHub
+
+---
+
+## 🤝 Contribuição
+Sugestões e melhorias são bem-vindas!  
+Para contribuir:
+1. Faça um fork do projeto
+2. Crie uma branch 
+3. Commit suas alterações 
+4. Envie um pull request
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rh%C3%A1vila-vieiraa/  
+- GitHub:  https://github.com/rhavila8
+- Email: rhavilavieira8@gmail.com
